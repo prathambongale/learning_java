@@ -4,7 +4,7 @@ import com.learning.java.reactive.courseutil.Util;
 
 import reactor.core.publisher.Mono;
 
-public class Loc04MonoEmptyOrError {
+public class Lec04MonoEmptyOrError {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
