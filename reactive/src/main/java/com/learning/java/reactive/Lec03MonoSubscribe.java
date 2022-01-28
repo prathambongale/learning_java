@@ -4,7 +4,7 @@ import com.learning.java.reactive.courseutil.Util;
 
 import reactor.core.publisher.Mono;
 
-public class Lec03MonoJust {
+public class Lec03MonoSubscribe {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
