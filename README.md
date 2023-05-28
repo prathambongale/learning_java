@@ -4,7 +4,7 @@
 
 
 | Java Version        | Release Date           | Major Features  |
-| ------------- |:-------------:| -----:|
+| :-------------: |:-------------:| :-----|
 | Java 17      | September 2021 | +  Sealed Classes<br>+ Pattern Matching for Switch<br>+ Enhanced Pseudo-Random Number Generators<br>+ Strong encapsulation of JDK internals |
 | Java 16     | March 2021	      |   + Records<br>+ Pattern Matching for instanceof<br>+ Unix Domain Socket Channels<br>+ Foreign Function & Memory API |
 | Java 15 | September 2020      |    + Sealed Classes (Preview)<br>+ Text Blocks<br>+ Hidden Classes<br>+ ZGC Garbage Collector (Experimental) |
