@@ -18,3 +18,5 @@ void main() {
     System.out.println("Month number is : " + monthDay);
 }
 
+// java --enable-preview --sourcce 21 SwitchExpression.java
+
