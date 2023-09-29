@@ -1,4 +1,4 @@
-public sealed class VehicleSealed permits Car{
+public sealed class VehicleSealed permits Car, Truck{
 
     public String color;
     public String maker;

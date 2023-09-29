@@ -1,4 +1,4 @@
-public class Truck extends VehicleSealed {
+public final class Truck extends VehicleSealed {
 
     public void displayTruck() {
         VehicleSealed vehcileSealed = new VehicleSealed();
